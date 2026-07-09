@@ -22,4 +22,4 @@
 - Discord : `xpress045`
 - Discord : `xpress000`
 
-![]https://komarev.com/ghpvc/?username=xpress045
+![](https://komarev.com/ghpvc/?username=xpress045)
