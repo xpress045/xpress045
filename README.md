@@ -19,7 +19,7 @@
 - Networking
 
 ## Contacts
-- Discord : `xpress045`
-- Discord : `xpress000`
+- Discord : ![xpress045](https://discord.com/users/797893459200704563)
+- Discord : ![xpress000](https://discord.com/users/1492162730088599672)
 
 ![](https://komarev.com/ghpvc/?username=xpress045)
