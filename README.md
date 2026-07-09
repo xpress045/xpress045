@@ -1,7 +1,7 @@
 # Xpress045
 
 ## About Me
-- Not professional in anything. Developing myself. I like Cyber Security, Backend Development, Python. I'm an old Roblox Developer . I'm Turkish.
+- Not professional in anything. Developing myself. I like Cyber Security, Backend Development, Python. I'm an old Roblox Developer. I'm Turkish.
 
 ## Languages
 ### Intermediate
