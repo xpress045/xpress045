@@ -1,16 +1,25 @@
 # Xpress045
 
-<!--
-**xpress045/xpress045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Not professional in anything. Developing myself. I like Cyber Security, Backend Development, Python. I'm an old Roblox Developer . I'm Turkish.
 
-Here are some ideas to get you started:
+## Languages
+### Intermediate
+- Python
+- LuaU (Roblox version of Lua)
+### Beginner
+- C#
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Python
+- Backend Developent
+- Website Pentesing
+- Cyber Security
+- Networking
+
+## Contacts
+- Discord : `xpress045`
+- Discord : `xpress000`
+
+![]https://komarev.com/ghpvc/?username=xpress045
