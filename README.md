@@ -3,6 +3,12 @@
 ## About Me
 - Not professional in anything. Developing myself. I like Cyber Security, Backend Development, Python. I'm an old Roblox Developer. I'm Turkish.
 
+## Recommended Projects
+- [XP-045](https://github.com/xpress045/xp045)
+A discord bot that spams discord servers.
+- [XP Scanner](https://github.com/xpress045/XP-Scanner/blob/main/main.lua)
+A roblox script that scans for backdoor vulnerabilities.
+
 ## Languages
 ### Intermediate
 - Python
