@@ -12,8 +12,8 @@
     <img alt="XP-045" src="https://img.shields.io/badge/XP%20Scanner-Roblox%20Backdoor%20Scanner-111827?style=for-the-badge">
   </a>
 </p>
-- XP-045 — A discord bot that spams discord servers.
-- XP Scanner — A roblox script that scans for backdoor vulnerabilities.
+- **XP-045** — A discord bot that spams discord servers.
+- **XP Scanner** — A roblox script that scans for backdoor vulnerabilities.
 
 ## Languages
 ### Intermediate
